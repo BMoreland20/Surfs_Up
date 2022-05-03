@@ -59,3 +59,4 @@ Run descriptive stats:
 From this data we now have a better understanding of the weather in the two months in question.  All be it the averages between the two months has a small difference, by doing a quick Welch’s t-test of independence and an alpha value of .05 we can determine that the means are not statistically significant.  This test can be performed by utilizing the following code.
 ` res = ttest_ind(v1, v2, equal_var= False)
 print(res) `
+With this result we now have a clearer picture as to if precipitation could be a factor to consider when thinking about surfing in June vs December.
