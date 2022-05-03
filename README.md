@@ -1,6 +1,6 @@
 Overview of the analysis:
 
-	The purpose of this week’s analysis is to connect to a SQLite database and then pull queries from the database using SQLAlchemy.  From then we are aiming to filter the temperature data and then transform it into a pandas dataFrame, and ending with our summary statistics this was done for the months of June and December.
+The purpose of this week’s analysis is to connect to a SQLite database and then pull queries from the database using SQLAlchemy.  From then we are aiming to filter the temperature data and then transform it into a pandas dataFrame, and ending with our summary statistics this was done for the months of June and December.
 
 Results:
 •	Deliverable 1:
