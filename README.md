@@ -3,11 +3,13 @@ Overview of the analysis:
 The purpose of this week’s analysis is to connect to a SQLite database and then pull queries from the database using SQLAlchemy.  From then we are aiming to filter the temperature data and then transform it into a pandas dataFrame, and ending with our summary statistics this was done for the months of June and December.
 
 Results:
+
 •	Deliverable 1:
 1.	During the month of June, the lowest temperature that was reached was 64 degrees Fahrenheit.  This was of 1700 data points.
 2.	During the month of June, the highest temperature that was reached was 85 degrees Fahrenheit.  This was of 1700 data points.
 3.	The average temperature in June, is approximately 75 degrees Fahrenheit when rounding to the nearest whole integer.
 See image below
+
 ![This is an image](https://github.com/BMoreland20/Surfs_Up/blob/main/Resources/June%20Temps.png)
 
 
@@ -16,6 +18,7 @@ See image below
 2.	During the month of December, the highest temperature that was reached was 83 degrees Fahrenheit.  This was of 1517 data points.
 3.	The average temperature in December, is approximately 71 degrees Fahrenheit when rounding to the nearest whole integer.
 See image below
+
 ![This is an image](https://github.com/BMoreland20/Surfs_Up/blob/main/Resources/December%20Temps.png)
 
 Summary:
